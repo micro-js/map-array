@@ -27,11 +27,10 @@ function addOne (v) {
 
 ## API
 
-### mapArray(fn, array, ctx)
+### mapArray(fn, array)
 
 - `fn` - mapping function
 - `array` - array to map over
-- `ctx` - context to use on `fn` call
 
 **Returns:** mapped array
 
