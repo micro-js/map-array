@@ -10,12 +10,12 @@ Map array.
 
 ## Installation
 
-    $ npm install @micro-js/map-array
+    $ npm install @f/map-array
 
 ## Usage
 
 ```js
-var map = require('@micro-js/map-array')
+var map = require('@f/map-array')
 
 map(addOne, [1, 2]) //  => [2, 3]
 
@@ -44,5 +44,5 @@ MIT
 [git-url]: https://github.com/micro-js/map-array
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/map-array.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/map-array
+[npm-image]: https://img.shields.io/npm/v/@f/map-array.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/map-array
